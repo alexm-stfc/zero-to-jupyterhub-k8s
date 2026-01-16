@@ -145,7 +145,7 @@ propcache==0.3.1
     #   yarl
 psycopg2==2.9.10
     # via -r unfrozen/requirements.txt
-pyasn1==0.6.1
+pyasn1==0.6.2
     # via
     #   ldap3
     #   pyasn1-modules
